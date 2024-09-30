@@ -3,11 +3,11 @@
 Una aplicación sencilla de lista de tareas construida con HTML, CSS y JavaScript. Esta To-Do List te permite agregar, marcar como completadas y eliminar tareas de forma dinámica, brindando una experiencia de usuario intuitiva y agradable.
 
 🚀 Características:<br>
--Agregar nuevas tareas.
--Marcar tareas como completadas.
--Eliminar tareas.
--Diseño responsive que se adapta a diferentes dispositivos.
--Animaciones y estilos atractivos con CSS.
+-Agregar nuevas tareas.<br>
+-Marcar tareas como completadas.<br>
+-Eliminar tareas.<br>
+-Diseño responsive que se adapta a diferentes dispositivos.<br>
+-Animaciones y estilos atractivos con CSS.<br>
 
 🛠️ Tecnologías Utilizadas<br>
 HTML5: Estructura del proyecto.<br>
