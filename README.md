@@ -10,9 +10,9 @@ Una aplicación sencilla de lista de tareas construida con HTML, CSS y JavaScrip
 -Animaciones y estilos atractivos con CSS.
 
 🛠️ Tecnologías Utilizadas<br>
-HTML5: Estructura del proyecto.
-CSS3: Estilos y diseño visual.
-JavaScript: Funcionalidad y manipulación del DOM.
+HTML5: Estructura del proyecto.<br>
+CSS3: Estilos y diseño visual.<br>
+JavaScript: Funcionalidad y manipulación del DOM.<br>
 
 📸 Capturas de Pantalla<br>
 ![to do listt](https://github.com/user-attachments/assets/ed534227-0f21-4d01-8edd-695ae0bcf033)
