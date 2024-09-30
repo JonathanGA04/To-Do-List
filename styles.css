@@ -1,0 +1,79 @@
+:root{
+    --blue: #3da6cf;
+    --lightblue: #8ed5f1;
+    --veryLightOrange: #64caf3;
+    --gray: #55557b;
+    --white: #fff;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: var(--blue);
+}
+h1{
+    margin-top: 200px;
+    color: white;
+    text-align: center;
+}
+form{
+   width: 400px;
+   margin: 45px auto;
+   text-align: center;
+}
+form input[type="text"]{
+    background-color: #3da6cf;
+    color: white;
+    border-style: none;
+    font-size: 1.5em;
+}
+form input[type="text"]::placeholder{
+    color: var(--lightblue) ;
+
+}
+form input[type="text"]:focus{
+    outline: none;
+}
+form input[type="submit"]{
+    font-size: 2em;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border-style: none;
+    color: var(--blue);
+}
+form input[type="submit"]:hover{
+    background-color: var(--veryLightOrange);
+    cursor: pointer;
+    color: white ;
+}
+.list-container{
+    width: 400px;
+    margin: 0 auto;
+}
+.task-container{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6px;
+    padding: 16px;
+    border-radius: 100px;
+    font-size: 1.1em;
+    font-weight: 500;
+}
+.closeBtn{
+    width: 20px;
+    height: 20px;
+}
+.closeBtn{
+    cursor: pointer;
+}
+#stats{
+    margin-top: 25px;
+    font-size: 1.3em;
+    color: var(--lightblue);
+    text-align: center;
+}
+
